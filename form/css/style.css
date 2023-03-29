@@ -1,0 +1,50 @@
+.subcontainer12{
+margin-inline: 50px;
+background-image: url('/assets/images/img11.jpg');
+background-repeat: no-repeat;
+padding-bottom: 30px;
+border-radius: 20px;
+}
+#signoutbtn{
+    background-color: cyan;
+    padding: 20px;
+    border-radius: 20px;
+    border-color: white;
+    font-weight: bolder;
+}
+.content12{
+margin: 50px;
+padding:10px;
+padding-top:10px;
+padding-bottom:30px;
+font-size: 30px;
+color: rgb(255, 255, 255);
+-webkit-text-stroke: 1px solid blue;
+}
+#myImage{
+    float:left;
+    border-top-left-radius:40px;
+    border-bottom-right-radius:40px;
+    height:250px; 
+    width:270px;
+    padding:50px;
+}
+#contactInfo{
+    color:white;
+}
+
+.background{
+    display: grid;
+    align-items: center; 
+    column-gap: 2px;
+    background-image: url('/assets/images/img13.jpg');
+
+}
+#selfIntroPara{
+    color:white;
+
+}
+#mail{
+    color: white;
+    font-size: 20px;
+}
